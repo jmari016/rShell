@@ -2,7 +2,7 @@
 **Creators:** Ethan White ~~ SID: 861312702 && Jorge Marin ~~ SID: 862009642  
 
 University of California, Riverside  
-CS100: Introduction to Artificial Intelligence  
+CS100: Software Construction  
 Professor Brian Crites
 
 
